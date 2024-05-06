@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ARCHITECTURE_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ARCHITECTURE_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="95701fs"></ZoomEndTime>
+      <Cursor1Time time="10000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="82"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/ARCHITECTURE_tb/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/T_mohaned" type="array">
+      <obj_property name="ElementShortName">T_mohaned[5:0]</obj_property>
+      <obj_property name="ObjectShortName">T_mohaned[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/mohaned" type="array">
+      <obj_property name="ElementShortName">mohaned[2:0]</obj_property>
+      <obj_property name="ObjectShortName">mohaned[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/pc_out" type="array">
+      <obj_property name="ElementShortName">pc_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/dr_out" type="array">
+      <obj_property name="ElementShortName">dr_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dr_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/ir_out" type="array">
+      <obj_property name="ElementShortName">ir_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ir_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/ar_out" type="array">
+      <obj_property name="ElementShortName">ar_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ar_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/ac_out" type="array">
+      <obj_property name="ElementShortName">ac_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ac_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/d" type="array">
+      <obj_property name="ElementShortName">d[7:0]</obj_property>
+      <obj_property name="ObjectShortName">d[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/out_mux" type="array">
+      <obj_property name="ElementShortName">out_mux[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out_mux[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/D" type="array">
+      <obj_property name="ElementShortName">D[7:0]</obj_property>
+      <obj_property name="ObjectShortName">D[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/in_mux" type="array">
+      <obj_property name="ElementShortName">in_mux[2:0]</obj_property>
+      <obj_property name="ObjectShortName">in_mux[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/X" type="array">
+      <obj_property name="ElementShortName">X[7:0]</obj_property>
+      <obj_property name="ObjectShortName">X[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/J" type="logic">
+      <obj_property name="ElementShortName">J</obj_property>
+      <obj_property name="ObjectShortName">J</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/E" type="logic">
+      <obj_property name="ElementShortName">E</obj_property>
+      <obj_property name="ObjectShortName">E</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ARCHITECTURE_tb/ARCH/mem_out" type="array">
+      <obj_property name="ElementShortName">mem_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_out[7:0]</obj_property>
+   </wvobject>
+</wave_config>
