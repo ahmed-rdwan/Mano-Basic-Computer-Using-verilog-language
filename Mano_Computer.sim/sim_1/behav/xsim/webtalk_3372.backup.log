@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue May  7 05:22:53 2024
+# Process ID: 3372
+# Current directory: C:/Users/taker/my_mano/my_mano.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/taker/my_mano/my_mano.sim/sim_1/behav/xsim/xsim.dir/ARCHITECTURE_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/taker/my_mano/my_mano.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/taker/my_mano/my_mano.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/taker/my_mano/my_mano.sim/sim_1/behav/xsim/xsim.dir/ARCHITECTURE_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:10 . Memory (MB): peak = 53.926 ; gain = 1.230
+INFO: [Common 17-206] Exiting Webtalk at Tue May  7 05:23:02 2024...
